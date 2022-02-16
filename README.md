@@ -14,7 +14,7 @@
 
 ## 역행렬 의사코드
 	{Matrix | inverse matrix}순으로 a[n][n*2]이라고 하면
-“`
+```
 for (i=0 to n) 
  t=a[i][i]
  if(t==0)
@@ -27,5 +27,5 @@ for (i=0 to n)
         h=a[l][i]
  for(k=0 to 2*n)
     a[l][k]=a[l][k]-h*a[i][k]
-“`
+```
   

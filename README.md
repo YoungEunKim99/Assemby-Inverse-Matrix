@@ -1,7 +1,8 @@
 # Assemby-Inverse-Matrix
 부동소수점으로 이루어진 N*N(1<=N<=20)정방행렬에 대한 역행렬을 가우스 소거법을 통하여 구하는 프로그램
 
-
+##Language
+  * Assembly
 ## 부동소수점 곱셈(radix-4) Flow chart
   *multiplicand=A
   *multiplier=X

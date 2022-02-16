@@ -29,4 +29,5 @@ for (i=0 to n)
  for(k=0 to 2*n)
     a[l][k]=a[l][k]-h*a[i][k]
 ```
-  
+## Input Data 예제
+<img height="400" alt="division_flow_chart" src="https://user-images.githubusercontent.com/56907015/154198750-b59d5359-4b50-48f5-87a0-470bfa123281.png">

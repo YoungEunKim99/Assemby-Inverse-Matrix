@@ -7,13 +7,13 @@
   *multiplier=X
   *Overflow=V
   *Result=U
-<img height="700" alt="flow_chart" src="https://user-images.githubusercontent.com/56907015/154195593-ee32e9bd-2648-40bc-9930-6d722800f4d4.png">
+<img  alt="Multiple_flow_chart" src="https://user-images.githubusercontent.com/56907015/154195593-ee32e9bd-2648-40bc-9930-6d722800f4d4.png">
 
 ## 부동소수점 나눗셈 Flow chart
-<img height="700" alt="flow_chart" src="https://user-images.githubusercontent.com/56907015/154195767-2833c8d3-d3a8-4f7a-a54b-878ea36ceb29.png">
+<img height="700" alt="division_flow_chart" src="https://user-images.githubusercontent.com/56907015/154195767-2833c8d3-d3a8-4f7a-a54b-878ea36ceb29.png">
 
 ## 역행렬 의사코드
-	{Matrix | inverse matrix}순으로 a[n][n*2]이라고 하면
+{Matrix | inverse matrix}순으로 a[n][n*2]이라고 하면
 ```
 for (i=0 to n) 
  t=a[i][i]

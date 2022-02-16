@@ -8,7 +8,7 @@
   * multiplier=X
   * Overflow=V
   * Result=U
-<img  alt="Multiple_flow_chart" src="https://user-images.githubusercontent.com/56907015/154195593-ee32e9bd-2648-40bc-9930-6d722800f4d4.png">
+<img  width="300"alt="Multiple_flow_chart" src="https://user-images.githubusercontent.com/56907015/154195593-ee32e9bd-2648-40bc-9930-6d722800f4d4.png">
 
 ## 부동소수점 나눗셈 Flow chart
 <img height="700" alt="division_flow_chart" src="https://user-images.githubusercontent.com/56907015/154195767-2833c8d3-d3a8-4f7a-a54b-878ea36ceb29.png">

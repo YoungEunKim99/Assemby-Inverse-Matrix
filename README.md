@@ -4,10 +4,10 @@
 ## Language
   * Assembly
 ## 부동소수점 곱셈(radix-4) Flow chart
-  *multiplicand=A
-  *multiplier=X
-  *Overflow=V
-  *Result=U
+  * multiplicand=A
+  * multiplier=X
+  * Overflow=V
+  * Result=U
 <img  alt="Multiple_flow_chart" src="https://user-images.githubusercontent.com/56907015/154195593-ee32e9bd-2648-40bc-9930-6d722800f4d4.png">
 
 ## 부동소수점 나눗셈 Flow chart

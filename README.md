@@ -31,3 +31,6 @@ for (i=0 to n)
 ```
 ## Input Data 예제
 <img height="200" alt="division_flow_chart" src="https://user-images.githubusercontent.com/56907015/154198750-b59d5359-4b50-48f5-87a0-470bfa123281.png">
+
+## Reference 
+* D. M. Harris and S. L. Harris, Digital design and computer architecture, Morgan Kaufmann, 2007
